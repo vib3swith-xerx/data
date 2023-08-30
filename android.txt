@@ -95,9 +95,7 @@ Realme 3 Pro,Realme,RMX1851
 Realme 3,Realme,RMX1825
 Realme X2,Realme,RMX1992
 Realme XT,Realme,RMX1921
-Real
-
-me 5s,Realme,RMX1925
+Realme 5s,Realme,RMX1925
 Realme 2 Pro,Realme,RMX1801
 Realme C2s,Realme,RMX1945
 Realme C1,Realme,RMX1811
@@ -172,9 +170,7 @@ Redmi Note 20T Pro 5G,Xiaomi,M2101K7BG
 Redmi Note 21,Xiaomi,M21061121B
 Redmi Note 21 Pro,Xiaomi,M21061121C
 Redmi Note 21 Pro 5G,Xiaomi,M2102K11AG
-Redmi Note 21 Pro 6G,Xiaomi,M2102K11
-
-AG
+Redmi Note 21 Pro 6G,Xiaomi,M2102K11AG
 Redmi Note 21S,Xiaomi,M21061291B
 Redmi Note 21S 5G,Xiaomi,M2102K11AG
 Redmi Note 21S 6G,Xiaomi,M2102K11AG
@@ -231,9 +227,7 @@ Redmi Note 23 Pro,Xiaomi,M21061121C
 Redmi Note 23 Pro 5G,Xiaomi,M2102K11AG
 Redmi Note 23 Pro 6G,Xiaomi,M2102K11AG
 Redmi Note 23 Pro 6G 8GB RAM,Xiaomi,M2102K11AG
-Redmi Note 23 Pro 6G 
-
-12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro 6G 12GB RAM,Xiaomi,M2102K11AG
 Redmi Note 23 Pro Plus,Xiaomi,M21061121C
 Redmi Note 23 Pro Plus 5G,Xiaomi,M2102K11AG
 Redmi Note 23 Pro Plus 6G,Xiaomi,M2102K11AG
@@ -310,9 +304,7 @@ Poco X4 Ultra Pro Plus 6G 12GB RAM,Poco,2108K11B
 Poco X4 Ultra Pro SE,Poco,2108K11B
 Poco X4 Ultra Pro SE 5G,Poco,2108K11B
 Poco X4 Ultra Pro SE 6G,Poco,2108K11B
-Poco X4 Ultra Pro SE 6G 8GB RAM,P
-
-oco,2108K11B
+Poco X4 Ultra Pro SE 6G 8GB RAM,Poco,2108K11B
 Poco X4 Ultra Pro SE 6G 12GB RAM,Poco,2108K11B
 Poco X4 Ultra SE Pro,Poco,2108K11B
 Poco X4 Ultra SE Pro 5G,Poco,2108K11B
@@ -371,9 +363,7 @@ Poco F4 SE 6G 8GB RAM,Poco,2108K11D
 Poco F4 SE 6G 12GB RAM,Poco,2108K11D
 Poco F4 Plus,Poco,2108K11B
 Poco F4 Plus 5G,Poco,2108K11B
-Poco F4 Plus 
-
-6G,Poco,2108K11B
+Poco F4 Plus 6G,Poco,2108K11B
 Poco F4 Plus 6G 8GB RAM,Poco,2108K11B
 Poco F4 Plus 6G 12GB RAM,Poco,2108K11B
 Poco F4 SE Plus,Poco,2108K11B
@@ -457,9 +447,7 @@ Poco X6 Pro Plus 6G,Poco,2108K11B
 Poco X6 Pro Plus 6G 8GB RAM,Poco,2108K11B
 Poco X6 Pro Plus 6G 12GB RAM,Poco,2108K11B
 Poco X6 SE,Poco,2108K11F
-Poco X6 SE 5
-
-G,Poco,2108K11F
+Poco X6 SE 5G,Poco,2108K11F
 Poco X6 SE 6G,Poco,2108K11F
 Poco X6 SE 6G 8GB RAM,Poco,2108K11F
 Poco X6 SE 6G 12GB RAM,Poco,2108K11F
