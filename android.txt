@@ -1,0 +1,546 @@
+Galaxy A52,Samsung,SM-A525F
+Xperia 10 III,Sony,XQ-AJ72
+Redmi Note 11 Pro,Xiaomi,M2103K19PG
+LG Q70,LG,LM-Q620N
+Motorola Edge 20,Motorola,XT2143-1
+Vivo V21 Pro,Vivo,V2050
+Realme GT,Realme,RMX2202
+Nokia X20,Nokia,TA-1343
+ZenFone 8 Flip,ASUS,ZS672KS
+Galaxy A72,Samsung,SM-A725F
+Pixel 6,Google,GP2AQC
+OnePlus 10 Pro,OnePlus,LE2120
+Redmi Note 11,Xiaomi,--
+Xperia 5 III,Sony,XQ-AS82
+LG Stylo 7,LG,LM-Q730TM
+Motorola Moto G Stylus 5G,Motorola,XT2131-2
+Vivo Y73 Pro,Vivo,V2112A
+Realme 9,Realme,RMX3601
+Nokia 7.4,Nokia,TA-1345
+Galaxy S22,Samsung,SM-G900F
+Pixel 6 Pro,Google,GP2BQC
+OnePlus 10,OnePlus,LE2120
+Redmi 11 Pro,Xiaomi,--
+Xperia 10 IV,Sony,XQ-AT82
+LG K92,LG,LM-K920
+Motorola Moto G Play 2023,Motorola,XT2189-1
+Vivo Y53s,Vivo,V2058
+Realme Q4,Realme,RMX2224
+Nokia 6.4,Nokia,TA-1331
+Galaxy Note 22 Ultra,Samsung,SM-N986U
+Pixel 7,Google,GP3AQC
+OnePlus 11 Pro,OnePlus,LE2130
+Redmi Note 12,Xiaomi,--
+Xperia 6,Sony,XQ-AU72
+LG G10,LG,LM-G1010
+Motorola Edge 30,Motorola,XT2201-3
+Vivo X80 Pro,Vivo,V2120A
+Realme 10,Realme,RMX2231
+Nokia 8.5,Nokia,TA-1387
+Galaxy A82,Samsung,SM-A825F
+Pixel 7 Pro,Google,GP3BQC
+OnePlus 11,OnePlus,LE2130
+Redmi 12 Pro,Xiaomi,--
+Xperia 7,Sony,XQ-AV82
+LG G20,LG,LM-G2010
+Motorola Moto G60,Motorola,XT2270-1
+Vivo X90 Pro,Vivo,V2130A
+Realme 11,Realme,RMX2241
+Nokia 9.6,Nokia,TA-1399
+Galaxy M42,Samsung,SM-M426B
+Pixel 8,Google,GP4AQC
+OnePlus 12 Pro,OnePlus,LE2140
+Redmi 13 Pro,Xiaomi,--
+Xperia 8,Sony,XQ-AW82
+LG G30,LG,LM-G3010
+Motorola Moto G80,Motorola,XT2400-1
+Vivo Y83s,Vivo,V2142A
+Realme 12,Realme,RMX2251
+Nokia 10.5,Nokia,TA-1412
+Realme Narzo 50,Realme,RMX2350
+Vivo Y21s,Vivo,V2132A
+Oppo Reno 7,Oppo,PEQM00
+Realme C25,Realme,RMX3171
+Vivo Y20s,Vivo,V2069
+Oppo A16,Oppo,CPH2269
+Realme 8s,Realme,RMX3151
+Vivo Y33,Vivo,V2058
+Oppo A93s,Oppo,PEPM00
+Realme GT Master Edition,Realme,RMX3366
+Vivo S10 Pro,Vivo,V2141A
+Oppo F21,Oppo,CPH2247
+Realme 9 Pro,Realme,RMX3321
+Vivo Y72s,Vivo,V2103A
+Oppo A75,Oppo,PEVM00
+Realme 7i,Realme,RMX2103
+Vivo V21s,Vivo,V2121A
+Oppo Reno 8,Oppo,PEQM00
+Realme C21,Realme,RMX3201
+Vivo Y12s,Vivo,V2108
+Oppo A15,Oppo,CPH2201
+Realme 6i,Realme,RMX2002
+Realme C11,Realme,RMX2185
+Realme 6 Pro,Realme,RMX2061
+Realme X2 Pro,Realme,RMX1931
+Realme 6,Realme,RMX2001
+Realme C3,Realme,RMX2027
+Realme X50 Pro,Realme,RMX2076
+Realme C2,Realme,RMX1941
+Realme X3 SuperZoom,Realme,RMX2086
+Realme 5 Pro,Realme,RMX1971
+Realme 5,Realme,RMX1911
+Realme X50,Realme,RMX2051
+Realme X,Realme,RMX1901
+Realme 3 Pro,Realme,RMX1851
+Realme 3,Realme,RMX1825
+Realme X2,Realme,RMX1992
+Realme XT,Realme,RMX1921
+Real
+
+me 5s,Realme,RMX1925
+Realme 2 Pro,Realme,RMX1801
+Realme C2s,Realme,RMX1945
+Realme C1,Realme,RMX1811
+Realme U1,Realme,RMX1831
+Realme C15,Realme,RMX2180
+Realme C12,Realme,RMX2189
+Realme V5,Realme,RMX2111
+Realme V3,Realme,RMX2020
+Realme Q2,Realme,RMX2117
+Realme Q2 Pro,Realme,RMX2173
+Realme 7,Realme,RMX2151
+Realme 7 Pro,Realme,RMX2170
+Realme 7i,Realme,RMX2103
+Realme C11 2021,Realme,RMX3231
+Realme C20,Realme,RMX3061
+Realme Narzo 20,Realme,RMX2191
+Realme Narzo 20A,Realme,RMX2050
+Realme Narzo 20 Pro,Realme,RMX2161
+Realme C15 Qualcomm Edition,Realme,RMX2195
+Realme C17,Realme,RMX2101
+Realme Narzo 30A,Realme,RMX3171
+Realme Narzo 30 Pro,Realme,RMX3161
+Realme Narzo 30,Realme,RMX3165
+Realme C21Y,Realme,RMX3261
+Realme C11 2021,Realme,RMX3231
+Realme C25s,Realme,RMX3265
+Realme Narzo 50A,Realme,RMX3202
+Realme Narzo 50i,Realme,RMX3190
+Redmi 10,Xiaomi,M2016119C
+Redmi 10 Prime,Xiaomi,M21061119A
+Redmi 10i,Xiaomi,M21061121D
+Redmi Note 11,Xiaomi,M2016119AI
+Redmi Note 11S,Xiaomi,M21061291C
+Redmi Note 11 Pro,Xiaomi,M2103116K1G
+Redmi Note 11 Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 11 4G,Xiaomi,M2101K7BI
+Redmi Note 11 5G,Xiaomi,M2105K81C
+Redmi Note 11T,Xiaomi,M2104K4PI
+Redmi Note 11T Pro,Xiaomi,M2104K10PI
+Redmi Note 12,Xiaomi,M2104K4P1
+Redmi Note 12 5G,Xiaomi,M2105K81G
+Redmi Note 12 Pro,Xiaomi,M2104K10P1
+Redmi Note 12 Pro 5G,Xiaomi,M2105K81H
+Redmi Note 12 Pro 4G,Xiaomi,M2104K10P1
+Redmi Note 12 Pro 5G,Yellow,Xiaomi,M2105K81H
+Redmi Note 12 Pro 4G,Yellow,Xiaomi,M2104K10P1
+Redmi Note 12 Pro 5G,Black,Xiaomi,M2105K81H
+Redmi Note 12 Pro 4G,Black,Xiaomi,M2104K10P1
+Redmi Note 12T,Xiaomi,M2105K10AI
+Redmi Note 12T 5G,Xiaomi,M2105K10AG
+Redmi K40,Xiaomi,M2012K11AC
+Redmi K40 Pro,Xiaomi,M2012K11C
+Redmi K40 Pro+ ,Xiaomi,M2012K11B
+Redmi K40 Game Enhanced,Xiaomi,M2104K10C
+Redmi K50,Xiaomi,M2105K10A
+Redmi K50 Pro,Xiaomi,M2105K10C
+Redmi K50 Pro+ ,Xiaomi,M2105K10B
+Redmi K50 Game Enhanced,Xiaomi,M2105K10D
+Redmi 20,Xiaomi,M21061121H
+Redmi 20 Pro,Xiaomi,M21061121A
+Redmi 20i,Xiaomi,M21061122C
+Redmi Note 20,Xiaomi,M2103116I1G
+Redmi Note 20 Pro,Xiaomi,M2103116C1G
+Redmi Note 20 Pro 5G,Xiaomi,M2101K7AG
+Redmi Note 20 Pro+,Xiaomi,M2101K7AG
+Redmi Note 20 Ultra,Xiaomi,M2101K7BG
+Redmi Note 20 Ultra 5G,Xiaomi,M2101K7BG
+Redmi Note 20T,Xiaomi,M2101K7AG
+Redmi Note 20T 5G,Xiaomi,M2101K7AG
+Redmi Note 20T Pro,Xiaomi,M2101K7BG
+Redmi Note 20T Pro 5G,Xiaomi,M2101K7BG
+Redmi Note 21,Xiaomi,M21061121B
+Redmi Note 21 Pro,Xiaomi,M21061121C
+Redmi Note 21 Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 21 Pro 6G,Xiaomi,M2102K11
+
+AG
+Redmi Note 21S,Xiaomi,M21061291B
+Redmi Note 21S 5G,Xiaomi,M2102K11AG
+Redmi Note 21S 6G,Xiaomi,M2102K11AG
+Redmi Note 21T,Xiaomi,M21061121G
+Redmi Note 21T 5G,Xiaomi,M2102K11AG
+Redmi Note 21T 6G,Xiaomi,M2102K11AG
+Redmi Note 21T Pro,Xiaomi,M21061121D
+Redmi Note 21T Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 21T Pro 6G,Xiaomi,M2102K11AG
+Redmi Note 21T Pro 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 21T Pro 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22,Xiaomi,M2104K4C
+Redmi Note 22 5G,Xiaomi,M2105K81C
+Redmi Note 22 6G,Xiaomi,M2104K4C
+Redmi Note 22 Pro,Xiaomi,M2104K10C
+Redmi Note 22 Pro 5G,Xiaomi,M2105K81G
+Redmi Note 22 Pro 6G,Xiaomi,M2104K10C
+Redmi Note 22 Pro Plus,Xiaomi,M2104K10B
+Redmi Note 22 Pro Plus 5G,Xiaomi,M2105K81H
+Redmi Note 22 Pro Plus 6G,Xiaomi,M2104K10B
+Redmi Note 22 Pro Plus 6G 8GB RAM,Xiaomi,M2105K81H
+Redmi Note 22 Pro Plus 6G 12GB RAM,Xiaomi,M2105K81H
+Redmi Note 22 Ultra,Xiaomi,M2105K81H
+Redmi Note 22 Ultra 5G,Xiaomi,M2105K81H
+Redmi Note 22 Ultra 6G,Xiaomi,M2105K81H
+Redmi Note 22 Ultra 6G 8GB RAM,Xiaomi,M2105K81H
+Redmi Note 22 Ultra 6G 12GB RAM,Xiaomi,M2105K81H
+Redmi Note 22S,Xiaomi,M21061291B
+Redmi Note 22S 5G,Xiaomi,M2102K11AG
+Redmi Note 22S 6G,Xiaomi,M2102K11AG
+Redmi Note 22S 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22S 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T,Xiaomi,M21061121G
+Redmi Note 22T 5G,Xiaomi,M2102K11AG
+Redmi Note 22T 6G,Xiaomi,M2102K11AG
+Redmi Note 22T 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T Pro,Xiaomi,M21061121D
+Redmi Note 22T Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 22T Pro 6G,Xiaomi,M2102K11AG
+Redmi Note 22T Pro 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T Pro 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T Pro Plus,Xiaomi,M21061121C
+Redmi Note 22T Pro Plus 5G,Xiaomi,M2102K11AG
+Redmi Note 22T Pro Plus 6G,Xiaomi,M2102K11AG
+Redmi Note 22T Pro Plus 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 22T Pro Plus 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23,Xiaomi,M21061121B
+Redmi Note 23 5G,Xiaomi,M2102K11AG
+Redmi Note 23 6G,Xiaomi,M2102K11AG
+Redmi Note 23 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro,Xiaomi,M21061121C
+Redmi Note 23 Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro 6G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro 6G 
+
+12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro Plus,Xiaomi,M21061121C
+Redmi Note 23 Pro Plus 5G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro Plus 6G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro Plus 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro Plus 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro SE,Xiaomi,M21061121C
+Redmi Note 23 Pro SE 5G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro SE 6G,Xiaomi,M2102K11AG
+Redmi Note 23 Pro SE 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23 Pro SE 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T,Xiaomi,M21061121C
+Redmi Note 23T 5G,Xiaomi,M2102K11AG
+Redmi Note 23T 6G,Xiaomi,M2102K11AG
+Redmi Note 23T 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T Pro,Xiaomi,M21061121D
+Redmi Note 23T Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 23T Pro 6G,Xiaomi,M2102K11AG
+Redmi Note 23T Pro 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T Pro 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T Pro Plus,Xiaomi,M21061121C
+Redmi Note 23T Pro Plus 5G,Xiaomi,M2102K11AG
+Redmi Note 23T Pro Plus 6G,Xiaomi,M2102K11AG
+Redmi Note 23T Pro Plus 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 23T Pro Plus 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24,Xiaomi,M21061121B
+Redmi Note 24 5G,Xiaomi,M2102K11AG
+Redmi Note 24 6G,Xiaomi,M2102K11AG
+Redmi Note 24 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24 Pro,Xiaomi,M21061121C
+Redmi Note 24 Pro 5G,Xiaomi,M2102K11AG
+Redmi Note 24 Pro 6G,Xiaomi,M2102K11AG
+Redmi Note 24 Pro 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24 Pro 6G 12GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24 Pro Plus,Xiaomi,M21061121C
+Redmi Note 24 Pro Plus 5G,Xiaomi,M2102K11AG
+Redmi Note 24 Pro Plus 6G,Xiaomi,M2102K11AG
+Redmi Note 24 Pro Plus 6G 8GB RAM,Xiaomi,M2102K11AG
+Redmi Note 24 Pro Plus 6G 12GB RAM,Xiaomi,M2102K11AG
+Poco X4,Poco,2108K11I
+Poco X4 Pro,Poco,2108K11C
+Poco X4 Pro Plus,Poco,2108K11B
+Poco X4 Ultra,Poco,2108K11B
+Poco X4 Ultra 5G,Poco,2108K11B
+Poco X4 Ultra 6G,Poco,2108K11B
+Poco X4 Ultra 6G 8GB RAM,Poco,2108K11B
+Poco X4 Ultra 6G 12GB RAM,Poco,2108K11B
+Poco X4S,Poco,2108K11C
+Poco X4S 5G,Poco,2108K11C
+Poco X4S 6G,Poco,2108K11C
+Poco X4S 6G 8GB RAM,Poco,2108K11C
+Poco X4S 6G 12GB RAM,Poco,2108K11C
+Poco X4 Pro SE,Poco,2108K11B
+Poco X4 Pro SE 5G,Poco,2108K11B
+Poco X4 Pro SE 6G,Poco,2108K11B
+Poco X4 Pro SE 6G 8GB RAM,Poco,2108K11B
+Poco X4 Pro SE 6G 12GB RAM,Poco,2108K11B
+Poco X4 Ultra SE,Poco,2108K11B
+Poco X4 Ultra SE 5G,Poco,2108K11B
+Poco X4 Ultra SE 6G,Poco,2108K11B
+Poco X4 Ultra SE 6G 8GB RAM,Poco,2108K11B
+Poco X4 Ultra SE 6G 12GB RAM,Poco,2108K11B
+Poco X4 Ultra Pro,Poco,2108K11B
+Poco X4 Ultra Pro 5G,Poco,2108K11B
+Poco X4 Ultra Pro 6G,Poco,2108K11B
+Poco X4 Ultra Pro 6G 8GB RAM,Poco,2108K11B
+Poco X4 Ultra Pro 6G 12GB RAM,Poco,2108K11B
+Poco X4 Ultra Pro Plus,Poco,2108K11B
+Poco X4 Ultra Pro Plus 5G,Poco,2108K11B
+Poco X4 Ultra Pro Plus 6G,Poco,2108K11B
+Poco X4 Ultra Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco X4 Ultra Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco X4 Ultra Pro SE,Poco,2108K11B
+Poco X4 Ultra Pro SE 5G,Poco,2108K11B
+Poco X4 Ultra Pro SE 6G,Poco,2108K11B
+Poco X4 Ultra Pro SE 6G 8GB RAM,P
+
+oco,2108K11B
+Poco X4 Ultra Pro SE 6G 12GB RAM,Poco,2108K11B
+Poco X4 Ultra SE Pro,Poco,2108K11B
+Poco X4 Ultra SE Pro 5G,Poco,2108K11B
+Poco X4 Ultra SE Pro 6G,Poco,2108K11B
+Poco X4 Ultra SE Pro 6G 8GB RAM,Poco,2108K11B
+Poco X4 Ultra SE Pro 6G 12GB RAM,Poco,2108K11B
+Poco M5,Poco,2108K11C
+Poco M5 5G,Poco,2108K11C
+Poco M5 6G,Poco,2108K11C
+Poco M5 6G 8GB RAM,Poco,2108K11C
+Poco M5 6G 12GB RAM,Poco,2108K11C
+Poco M5 Pro,Poco,2108K11B
+Poco M5 Pro 5G,Poco,2108K11B
+Poco M5 Pro 6G,Poco,2108K11B
+Poco M5 Pro 6G 8GB RAM,Poco,2108K11B
+Poco M5 Pro 6G 12GB RAM,Poco,2108K11B
+Poco M5 Pro Plus,Poco,2108K11B
+Poco M5 Pro Plus 5G,Poco,2108K11B
+Poco M5 Pro Plus 6G,Poco,2108K11B
+Poco M5 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco M5 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco M5 SE,Poco,2108K11C
+Poco M5 SE 5G,Poco,2108K11C
+Poco M5 SE 6G,Poco,2108K11C
+Poco M5 SE 6G 8GB RAM,Poco,2108K11C
+Poco M5 SE 6G 12GB RAM,Poco,2108K11C
+Poco M5 Plus,Poco,2108K11B
+Poco M5 Plus 5G,Poco,2108K11B
+Poco M5 Plus 6G,Poco,2108K11B
+Poco M5 Plus 6G 8GB RAM,Poco,2108K11B
+Poco M5 Plus 6G 12GB RAM,Poco,2108K11B
+Poco M5 SE Plus,Poco,2108K11B
+Poco M5 SE Plus 5G,Poco,2108K11B
+Poco M5 SE Plus 6G,Poco,2108K11B
+Poco M5 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco M5 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco F4,Poco,2108K11D
+Poco F4 5G,Poco,2108K11D
+Poco F4 6G,Poco,2108K11D
+Poco F4 6G 8GB RAM,Poco,2108K11D
+Poco F4 6G 12GB RAM,Poco,2108K11D
+Poco F4 Pro,Poco,2108K11B
+Poco F4 Pro 5G,Poco,2108K11B
+Poco F4 Pro 6G,Poco,2108K11B
+Poco F4 Pro 6G 8GB RAM,Poco,2108K11B
+Poco F4 Pro 6G 12GB RAM,Poco,2108K11B
+Poco F4 Pro Plus,Poco,2108K11B
+Poco F4 Pro Plus 5G,Poco,2108K11B
+Poco F4 Pro Plus 6G,Poco,2108K11B
+Poco F4 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco F4 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco F4 SE,Poco,2108K11D
+Poco F4 SE 5G,Poco,2108K11D
+Poco F4 SE 6G,Poco,2108K11D
+Poco F4 SE 6G 8GB RAM,Poco,2108K11D
+Poco F4 SE 6G 12GB RAM,Poco,2108K11D
+Poco F4 Plus,Poco,2108K11B
+Poco F4 Plus 5G,Poco,2108K11B
+Poco F4 Plus 
+
+6G,Poco,2108K11B
+Poco F4 Plus 6G 8GB RAM,Poco,2108K11B
+Poco F4 Plus 6G 12GB RAM,Poco,2108K11B
+Poco F4 SE Plus,Poco,2108K11B
+Poco F4 SE Plus 5G,Poco,2108K11B
+Poco F4 SE Plus 6G,Poco,2108K11B
+Poco F4 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco F4 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco V4,Poco,2108K11E
+Poco V4 5G,Poco,2108K11E
+Poco V4 6G,Poco,2108K11E
+Poco V4 6G 8GB RAM,Poco,2108K11E
+Poco V4 6G 12GB RAM,Poco,2108K11E
+Poco V4 Pro,Poco,2108K11B
+Poco V4 Pro 5G,Poco,2108K11B
+Poco V4 Pro 6G,Poco,2108K11B
+Poco V4 Pro 6G 8GB RAM,Poco,2108K11B
+Poco V4 Pro 6G 12GB RAM,Poco,2108K11B
+Poco V4 Pro Plus,Poco,2108K11B
+Poco V4 Pro Plus 5G,Poco,2108K11B
+Poco V4 Pro Plus 6G,Poco,2108K11B
+Poco V4 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco V4 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco V4 SE,Poco,2108K11E
+Poco V4 SE 5G,Poco,2108K11E
+Poco V4 SE 6G,Poco,2108K11E
+Poco V4 SE 6G 8GB RAM,Poco,2108K11E
+Poco V4 SE 6G 12GB RAM,Poco,2108K11E
+Poco V4 Plus,Poco,2108K11B
+Poco V4 Plus 5G,Poco,2108K11B
+Poco V4 Plus 6G,Poco,2108K11B
+Poco V4 Plus 6G 8GB RAM,Poco,2108K11B
+Poco V4 Plus 6G 12GB RAM,Poco,2108K11B
+Poco V4 SE Plus,Poco,2108K11B
+Poco V4 SE Plus 5G,Poco,2108K11B
+Poco V4 SE Plus 6G,Poco,2108K11B
+Poco V4 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco V4 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco X5,Poco,2108K11E
+Poco X5 5G,Poco,2108K11E
+Poco X5 6G,Poco,2108K11E
+Poco X5 6G 8GB RAM,Poco,2108K11E
+Poco X5 6G 12GB RAM,Poco,2108K11E
+Poco X5 Pro,Poco,2108K11B
+Poco X5 Pro 5G,Poco,2108K11B
+Poco X5 Pro 6G,Poco,2108K11B
+Poco X5 Pro 6G 8GB RAM,Poco,2108K11B
+Poco X5 Pro 6G 12GB RAM,Poco,2108K11B
+Poco X5 Pro Plus,Poco,2108K11B
+Poco X5 Pro Plus 5G,Poco,2108K11B
+Poco X5 Pro Plus 6G,Poco,2108K11B
+Poco X5 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco X5 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco X5 SE,Poco,2108K11E
+Poco X5 SE 5G,Poco,2108K11E
+Poco X5 SE 6G,Poco,2108K11E
+Poco X5 SE 6G 8GB RAM,Poco,2108K11E
+Poco X5 SE 6G 12GB RAM,Poco,2108K11E
+Poco X5 Plus,Poco,2108K11B
+Poco X5 Plus 5G,Poco,2108K11B
+Poco X5 Plus 6G,Poco,2108K11B
+Poco X5 Plus 6G 8GB RAM,Poco,2108K11B
+Poco X5 Plus 6G 12GB RAM,Poco,2108K11B
+Poco X5 SE Plus,Poco,2108K11B
+Poco X5 SE Plus 5G,Poco,2108K11B
+Poco X5 SE Plus 6G,Poco,2108K11B
+Poco X5 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco X5 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco X6,Poco,2108K11F
+Poco X6 5G,Poco,2108K11F
+Poco X6 6G,Poco,2108K11F
+Poco X6 6G 8GB RAM,Poco,2108K11F
+Poco X6 6G 12GB RAM,Poco,2108K11F
+Poco X6 Pro,Poco,2108K11B
+Poco X6 Pro 5G,Poco,2108K11B
+Poco X6 Pro 6G,Poco,2108K11B
+Poco X6 Pro 6G 8GB RAM,Poco,2108K11B
+Poco X6 Pro 6G 12GB RAM,Poco,2108K11B
+Poco X6 Pro Plus,Poco,2108K11B
+Poco X6 Pro Plus 5G,Poco,2108K11B
+Poco X6 Pro Plus 6G,Poco,2108K11B
+Poco X6 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco X6 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco X6 SE,Poco,2108K11F
+Poco X6 SE 5
+
+G,Poco,2108K11F
+Poco X6 SE 6G,Poco,2108K11F
+Poco X6 SE 6G 8GB RAM,Poco,2108K11F
+Poco X6 SE 6G 12GB RAM,Poco,2108K11F
+Poco X6 Plus,Poco,2108K11B
+Poco X6 Plus 5G,Poco,2108K11B
+Poco X6 Plus 6G,Poco,2108K11B
+Poco X6 Plus 6G 8GB RAM,Poco,2108K11B
+Poco X6 Plus 6G 12GB RAM,Poco,2108K11B
+Poco X6 SE Plus,Poco,2108K11B
+Poco X6 SE Plus 5G,Poco,2108K11B
+Poco X6 SE Plus 6G,Poco,2108K11B
+Poco X6 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco X6 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco X7,Poco,2108K11F
+Poco X7 5G,Poco,2108K11F
+Poco X7 6G,Poco,2108K11F
+Poco X7 6G 8GB RAM,Poco,2108K11F
+Poco X7 6G 12GB RAM,Poco,2108K11F
+Poco X7 Pro,Poco,2108K11B
+Poco X7 Pro 5G,Poco,2108K11B
+Poco X7 Pro 6G,Poco,2108K11B
+Poco X7 Pro 6G 8GB RAM,Poco,2108K11B
+Poco X7 Pro 6G 12GB RAM,Poco,2108K11B
+Poco X7 Pro Plus,Poco,2108K11B
+Poco X7 Pro Plus 5G,Poco,2108K11B
+Poco X7 Pro Plus 6G,Poco,2108K11B
+Poco X7 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco X7 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco X7 SE,Poco,2108K11F
+Poco X7 SE 5G,Poco,2108K11F
+Poco X7 SE 6G,Poco,2108K11F
+Poco X7 SE 6G 8GB RAM,Poco,2108K11F
+Poco X7 SE 6G 12GB RAM,Poco,2108K11F
+Poco X7 Plus,Poco,2108K11B
+Poco X7 Plus 5G,Poco,2108K11B
+Poco X7 Plus 6G,Poco,2108K11B
+Poco X7 Plus 6G 8GB RAM,Poco,2108K11B
+Poco X7 Plus 6G 12GB RAM,Poco,2108K11B
+Poco X7 SE Plus,Poco,2108K11B
+Poco X7 SE Plus 5G,Poco,2108K11B
+Poco X7 SE Plus 6G,Poco,2108K11B
+Poco X7 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco X7 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco X8,Poco,2108K11G
+Poco X8 5G,Poco,2108K11G
+Poco X8 6G,Poco,2108K11G
+Poco X8 6G 8GB RAM,Poco,2108K11G
+Poco X8 6G 12GB RAM,Poco,2108K11G
+Poco X8 Pro,Poco,2108K11B
+Poco X8 Pro 5G,Poco,2108K11B
+Poco X8 Pro 6G,Poco,2108K11B
+Poco X8 Pro 6G 8GB RAM,Poco,2108K11B
+Poco X8 Pro 6G 12GB RAM,Poco,2108K11B
+Poco X8 Pro Plus,Poco,2108K11B
+Poco X8 Pro Plus 5G,Poco,2108K11B
+Poco X8 Pro Plus 6G,Poco,2108K11B
+Poco X8 Pro Plus 6G 8GB RAM,Poco,2108K11B
+Poco X8 Pro Plus 6G 12GB RAM,Poco,2108K11B
+Poco X8 SE,Poco,2108K11G
+Poco X8 SE 5G,Poco,2108K11G
+Poco X8 SE 6G,Poco,2108K11G
+Poco X8 SE 6G 8GB RAM,Poco,2108K11G
+Poco X8 SE 6G 12GB RAM,Poco,2108K11G
+Poco X8 Plus,Poco,2108K11B
+Poco X8 Plus 5G,Poco,2108K11B
+Poco X8 Plus 6G,Poco,2108K11B
+Poco X8 Plus 6G 8GB RAM,Poco,2108K11B
+Poco X8 Plus 6G 12GB RAM,Poco,2108K11B
+Poco X8 SE Plus,Poco,2108K11B
+Poco X8 SE Plus 5G,Poco,2108K11B
+Poco X8 SE Plus 6G,Poco,2108K11B
+Poco X8 SE Plus 6G 8GB RAM,Poco,2108K11B
+Poco X8 SE Plus 6G 12GB RAM,Poco,2108K11B
+Poco X9,Poco,2108K11H
+Poco X9 5G,Poco,2108K11H
+Poco X9 6G,Poco,2108K11H
+Poco X9 6G 8GB RAM,Poco,2108K11H
+Poco X9 6G 12GB RAM,Poco,2108K11H
+Poco X9 Pro,Poco,2108K11B
+Poco X9 Pro 5G,Poco,2108K11B
+Poco X9 Pro 6G,Poco,2108K11B
+Poco X9 Pro 6G 8GB RAM,Poco,2108K11B
+Poco X9 Pro 6G 12GB RAM,Poco,2108K11B
+Poco X9 Pro Plus,Poco,2108K11B
